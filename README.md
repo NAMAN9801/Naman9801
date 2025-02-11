@@ -1,5 +1,5 @@
 
-h3 align="center">Hello there, I'm Naman 👋</h3>
+<h3 align="center">Hello there, I'm Naman 👋</h3>
 <h5 align="center">
 <br>
 <p align="center">
